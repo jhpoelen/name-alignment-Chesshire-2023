@@ -37,10 +37,10 @@ taxonomies:
 #  enabled: false
 #
     - id: itis
-      enabled: true
+      enabled: false
       name: Integrated Taxonomic Information System
     - id: ncbi
-      enabled: true
+      enabled: false
       name: NCBI Taxonomy
     - id: discoverlife
       enabled: true
