@@ -10,7 +10,7 @@ datasets:
       enabled: false
       type: application/dwca
     - url: https://doi.org/10.15468/dl.w2nndm
-      enabled: false
+      enabled: true
       type: application/dwca
 # 
 taxonomies:
@@ -24,7 +24,7 @@ taxonomies:
 #  enabled: false
 #
     - id: itis
-      enabled: false
+      enabled: true
       name: Integrated Taxonomic Information System
     - id: ncbi
       enabled: false
@@ -36,10 +36,10 @@ taxonomies:
       enabled: false
       name: Bat Names 
     - id: col
-      enabled: false
+      enabled: true
       name: Catalogue of Life
     - id: gbif
-      enabled: false
+      enabled: true
       name: GBIF Backbone Taxonomy
     - id: globi
       enabled: false
